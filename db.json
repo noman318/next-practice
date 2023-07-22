@@ -1,0 +1,110 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "description": "Description 1",
+      "category": "sports",
+      "date": "April 25"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "description": "Description 2",
+      "category": "technology",
+      "date": "April 28"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "description": "Description 3",
+      "category": "food",
+      "date": "April 30"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "description": "Description 4",
+      "category": "food",
+      "date": "May 3"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "description": "Description 5",
+      "category": "technology",
+      "date": "May 3"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "description": "Cricket 6",
+      "category": "sports",
+      "date": "May 15"
+    }
+  ],
+  "dashboard": {
+    "posts": 10,
+    "likes": 1242,
+    "followers": 219,
+    "following": 48
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "New Article 1",
+      "description": "News Description 1",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "New Article 2",
+      "description": "News Description 2",
+      "category": "politics"
+    },
+    {
+      "id": 3,
+      "title": "New Article 3",
+      "description": "News Description 3",
+      "category": "sports"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Nokia 6",
+      "description": "Good Phone",
+      "price": 13500
+    },
+    {
+      "id": 3,
+      "title": "MI A1",
+      "description": "Good Camera",
+      "price": 14000
+    },
+    {
+      "id": 3,
+      "title": "Mi Note 5",
+      "description": "Good Battery",
+      "price": 13200
+    },
+    {
+      "id": 4,
+      "title": "Mi Note 8",
+      "description": "Good Screen",
+      "price": 14000
+    },
+    {
+      "id": 5,
+      "title": "Vivo V6",
+      "description": "Good Phone",
+      "price": 12000
+    },
+    {
+      "id": 6,
+      "title": "OnePlus Nord",
+      "description": "Good Phone",
+      "price": 20000
+    }
+  ]
+}
